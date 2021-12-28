@@ -7,7 +7,7 @@ Design a simple shell can take command like "clear" "ls" ...
 #### Program 2 - Multi-Process Matrix Multiplication using Shared Memory
 Do matrix multiplication by parallel programming
 
-#### Program 3 - Parallel Merge Sort using PthreadCancel changes
+#### Program 3 - Parallel Merge Sort using Pthread
 Divide the merge sort into several parallel tasks, using semaphores to communicate with others threads 
 
 #### Program 4 - Merge Sort with a Thread Pool
