@@ -70,4 +70,4 @@ g++ 0516222_hw1.c -o a.out
 ```
 
 ## Output
-![image](https://user-images.githubusercontent.com/22147510/147545125-7f35c911-9942-429a-ba9e-377288dcb92c.png)
+![image](https://user-images.githubusercontent.com/22147510/148633878-1ed647cc-3193-44ea-92a2-5c57905eee91.png)
