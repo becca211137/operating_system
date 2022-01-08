@@ -53,5 +53,5 @@ Testing OS Environment
 gcc 0516222_3.c -o a.out -lpthread
 ./a.out
 ```
-## result
+## Output
 ![image](https://github.com/becca211137/operating_system/blob/master/lab3/result.png)
