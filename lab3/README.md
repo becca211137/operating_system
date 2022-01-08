@@ -35,13 +35,15 @@
 
 ## Test Cases
 **Input:**
--    <total # of integers><space>\n
--    <all integers separated by space>
+```
+<total # of integers><space>\n
+<all integers separated by space>
+```
 -    Largest input: 1,000,000 integers
 -    Generate your own file for testing
 
 **Output**
-<sorted integers separated by space>
+-   sorted integers separated by space
 
 Testing OS Environment
 -    Ubuntu 16.04, Ubuntu 14.04 
