@@ -41,7 +41,7 @@
 -    Generate your own file for testing
 
 **Output**
--    <sorted integers separated by space>
+<sorted integers separated by space>
 
 Testing OS Environment
 -    Ubuntu 16.04, Ubuntu 14.04 
