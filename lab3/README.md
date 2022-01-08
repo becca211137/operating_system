@@ -1,4 +1,5 @@
 # Lab3 - Parallel Merge Sort using Pthread
+Multithreaded sorting using pthread and semaphore
 
 ## Requirements
 1. Prompt for the name of the input file
